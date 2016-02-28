@@ -1,0 +1,31 @@
+_repo: Widger-s-Quotes-and-Images-from-Monsieur-Madame-and-Bebe-by-Gustave-Droz-The-French-Immortals-__7575
+contributor:
+  creator:
+    editor:
+      agent_name: Widger, David
+      birthdate: 1932
+      gutenberg_agent_id: '1961'
+      url: http://www.gutenberg.org/2009/agents/1961
+creator:
+  author:
+    agent_name: Droz, Gustave
+    birthdate: 1832
+    deathdate: 1895
+    gutenberg_agent_id: '1337'
+    url: http://www.gutenberg.org/2009/agents/1337
+    wikipedia: http://en.wikipedia.org/wiki/Antoine_Gustave_Droz
+description: ''
+gutenberg_issued: '2009-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7575'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Quotations, French -- Translations into English'
+title: "Widger's Quotes and Images from Monsieur, Madame, and Bébé by Gustave Droz\r\
+  \nThe French Immortals: Quotes and Images"
+url: http://www.gutenberg.org/ebooks/7575
