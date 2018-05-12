@@ -1,4 +1,5 @@
 _repo: Widger-s-Quotes-and-Images-from-Monsieur-Madame-and-Bebe-by-Gustave-Droz-The-French-Immortals-__7575
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -6,6 +7,9 @@ contributor:
       birthdate: 1932
       gutenberg_agent_id: '1961'
       url: http://www.gutenberg.org/2009/agents/1961
+covers:
+- cover_type: archival
+  image_path: 7575-h/images/cover.jpg
 creator:
   author:
     agent_name: Droz, Gustave
@@ -15,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1337
     wikipedia: http://en.wikipedia.org/wiki/Antoine_Gustave_Droz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7575#Widger-s-Quotes-and-Images-from-Monsieur-Madame-and-Bebe-by-Gustave-Droz-The-French-Immortals-_
 gutenberg_issued: '2009-07-13'
 gutenberg_type: Text
 identifiers:
